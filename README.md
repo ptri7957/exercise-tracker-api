@@ -1,6 +1,11 @@
 # exercise-tracker-api
  An exercise tracker api developed on NodeJS
  
+# Built with
+- NodeJS
+- Express
+- MongoDB
+ 
 # Features
 - Create exercise
 - Edit exercise
